@@ -14,6 +14,8 @@ java工具：github: https://github.com/bigsizeme/java-rce-tools
 
 burpsuite地址：https://github.com/bigsizeme/burplugin-java-rce
 
-请叫我github搬运工
+
 # burplugin-java-rce
-![image](https://github.com/bigsizeme/burplugin-java-rce/blob/developer/screenshot/java-rce.png)
+![image](https://github.com/bigsizeme/burplugin-java-rce/blob/developer/screenshot/demo.png)
+
+github搬运工

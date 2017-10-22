@@ -16,6 +16,6 @@ burpsuite地址：https://github.com/bigsizeme/burplugin-java-rce
 
 
 # burplugin-java-rce
-![image](https://github.com/bigsizeme/burplugin-java-rce/blob/developer/screenshot/demo.png)
+![image](https://github.com/bigsizeme/burplugin-java-rce/blob/master/screenshot/demo.png)
 
 github搬运工
